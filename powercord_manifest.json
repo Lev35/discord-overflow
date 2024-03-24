@@ -1,0 +1,8 @@
+{
+    "name": "Overflow",
+    "description": "A theme that makes feel discord more comfortable, with less variety of colors and a solid, dark background.",
+    "version": "1.0",
+    "author": "levicho27",
+    "theme": "overflow.theme.css",
+    "license": "GPL 3.0"
+}
